@@ -1,6 +1,6 @@
 {
   "name": "freecodecamp",
-  "version": "0.1.0",
+  "version": "25.1.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/freecodecamp/freecodecamp.git"
@@ -11,7 +11,7 @@
     "build": "gulp build",
     "start": "babel-node server/server.js",
     "prestart-production": "bower cache clean && bower install && gulp build",
-    "start-production": "node pm2Start",
+    "start-production-test": "node pm2Start",
     "lint": "npm run lint-js && npm run lint-json",
     "lint-challenges": "jsonlint -q seed/challenges/*.json",
     "lint-nonprofits": "jsonlint -q seed/nonprofits.json",
