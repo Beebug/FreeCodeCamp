@@ -61,7 +61,7 @@
     "frameguard": "^0.2.2",
     "github-api": "~0.7.0",
     "gulp": "~3.8.8",
-    "gulp-eslint": "~0.9.0",
+    "gulp-eslint": "~1.0.0",
     "gulp-inject": "~1.0.2",
     "gulp-jsonlint": "^1.1.0",
     "gulp-less": "^3.0.3",
