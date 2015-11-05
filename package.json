@@ -131,7 +131,7 @@
   "devDependencies": {
     "blessed": "~0.0.37",
     "bower-main-files": "~0.0.4",
-    "browser-sync": "~1.8.1",
+    "browser-sync": "~2.9.12",
     "browserify": "^10.2.4",
     "chai": "~1.10.0",
     "envify": "^3.4.0",
